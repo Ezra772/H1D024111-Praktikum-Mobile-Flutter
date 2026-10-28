@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.blue,
           foregroundColor: Colors.white,
         ),
+        cardColor: Colors.white,
       ),
       home: const ProdukPage(),
     );

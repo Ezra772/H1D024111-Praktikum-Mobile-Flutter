@@ -17,18 +17,21 @@ class _ProdukPageState extends State<ProdukPage> {
       body: ListView(
         children: const [
           Card(
+            color: Colors.white,
             child: ListTile(
               title: Text('Kulkas'),
               subtitle: Text('30000'),
             ),
           ),
           Card(
+            color: Colors.white,
             child: ListTile(
               title: Text('Playstation'),
               subtitle: Text('30000'),
             ),
           ),
           Card(
+            color: Colors.white,
             child: ListTile(
               title: Text('Radio'),
               subtitle: Text('30000'),
